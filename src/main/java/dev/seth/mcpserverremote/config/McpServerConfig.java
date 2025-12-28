@@ -1,7 +1,7 @@
-package dev.seth.mcpserverstdio.config;
+package dev.seth.mcpserverremote.config;
 
 
-import dev.seth.mcpserverstdio.tools.HelpDeskTools;
+import dev.seth.mcpserverremote.tools.HelpDeskTools;
 import org.springframework.ai.support.ToolCallbacks;
 import org.springframework.ai.tool.ToolCallback;
 import org.springframework.context.annotation.Bean;

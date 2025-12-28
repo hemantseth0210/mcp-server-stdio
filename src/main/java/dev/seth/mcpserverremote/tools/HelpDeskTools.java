@@ -1,9 +1,9 @@
-package dev.seth.mcpserverstdio.tools;
+package dev.seth.mcpserverremote.tools;
 
 
-import dev.seth.mcpserverstdio.entity.HelpDeskTicket;
-import dev.seth.mcpserverstdio.model.TicketRequest;
-import dev.seth.mcpserverstdio.service.HelpDeskTicketService;
+import dev.seth.mcpserverremote.entity.HelpDeskTicket;
+import dev.seth.mcpserverremote.model.TicketRequest;
+import dev.seth.mcpserverremote.service.HelpDeskTicketService;
 import lombok.RequiredArgsConstructor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

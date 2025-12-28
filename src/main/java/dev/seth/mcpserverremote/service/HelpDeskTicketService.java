@@ -1,8 +1,8 @@
-package dev.seth.mcpserverstdio.service;
+package dev.seth.mcpserverremote.service;
 
-import dev.seth.mcpserverstdio.entity.HelpDeskTicket;
-import dev.seth.mcpserverstdio.model.TicketRequest;
-import dev.seth.mcpserverstdio.repository.HelpDeskTicketRepository;
+import dev.seth.mcpserverremote.entity.HelpDeskTicket;
+import dev.seth.mcpserverremote.model.TicketRequest;
+import dev.seth.mcpserverremote.repository.HelpDeskTicketRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package dev.seth.mcpserverstdio.entity;
+package dev.seth.mcpserverremote.entity;
 
 import jakarta.persistence.*;
 import lombok.*;

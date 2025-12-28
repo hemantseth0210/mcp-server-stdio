@@ -1,13 +1,13 @@
-package dev.seth.mcpserverstdio;
+package dev.seth.mcpserverremote;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class McpServerStdioApplication {
+public class McpServerRemoteApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(McpServerStdioApplication.class, args);
+		SpringApplication.run(McpServerRemoteApplication.class, args);
 	}
 
 }

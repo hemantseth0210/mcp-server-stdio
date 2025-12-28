@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>dev.seth</groupId>
-	<artifactId>mcp-server-stdio</artifactId>
+	<artifactId>mcp-server-remote</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>mcp-server-stdio</name>
-	<description>Demo project for MCP Server</description>
+	<name>mcp-server-remote</name>
+	<description>Demo project for MCP Server using Remote(Streamable HTTP)</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -41,7 +41,7 @@
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.ai</groupId>
-			<artifactId>spring-ai-starter-mcp-server</artifactId>
+			<artifactId>spring-ai-starter-mcp-server-webmvc</artifactId>
 		</dependency>
 
 		<dependency>

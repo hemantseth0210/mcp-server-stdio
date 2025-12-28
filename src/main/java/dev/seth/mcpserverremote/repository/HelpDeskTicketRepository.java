@@ -1,7 +1,7 @@
-package dev.seth.mcpserverstdio.repository;
+package dev.seth.mcpserverremote.repository;
 
 
-import dev.seth.mcpserverstdio.entity.HelpDeskTicket;
+import dev.seth.mcpserverremote.entity.HelpDeskTicket;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
